@@ -1,0 +1,17 @@
+title: "Maneesha Akula"
+description: "A simple Jekyll website"
+baseurl: "" 
+url: "https://ManeeshaAkula.github.io"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
